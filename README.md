@@ -24,7 +24,7 @@ Welcome to **RajTon Estates**, an innovative platform designed to make buying, s
 
 - **Easy Navigation:** The site’s layout is designed for quick and easy access to all features and services.
 - **Secure Transactions:** Our platform ensures that all your dealings are secure and handled with utmost confidentiality.
-- **Support & Guidance:** We provide resources and tools to help you make informed decisions every step of the way.
+- **Support & Guidance:** We provide resources and tools to help you make informed decisions every step of the way..
 
 ## Additional Information
 
